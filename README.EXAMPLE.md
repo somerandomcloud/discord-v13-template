@@ -31,6 +31,7 @@ To deploy all slash commands globally, run the text command `<prefix>gdeploy`, t
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to test updates before making a pull request.
+
 ## Authors
 
 - [@somerandomcloud](https://www.github.com/somerandomcloud) (BOT TEMPLATE)
@@ -40,6 +41,7 @@ Please make sure to test updates before making a pull request.
 
  - [Discord.js V13 Bot Template](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Discord.js](https://discord.js.org/#/)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
