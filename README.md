@@ -23,3 +23,7 @@ I would recommend to keep everying in the Acknowledgements section, but its your
 ### Configs
 
 Rename `config.example.json` to `config.json`, and add in all needed info. Thats pretty much it. Enjoy making your bot
+
+## Thank you
+
+Thanks to [@AVMG20](https://github.com/AVMG20) for the autodeploy thing, very cool! Check out his project ControlPanel.gg

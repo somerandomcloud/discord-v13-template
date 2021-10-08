@@ -10,8 +10,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
     "@joshdb/core": "^1.2.5",
     "@joshdb/sqlite": "^1.1.9",
+    "discord-api-types": "^0.23.1",
     "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
   }
 }

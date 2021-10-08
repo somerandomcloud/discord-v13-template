@@ -1,9 +1,12 @@
 const { MessageEmbed } = require('discord.js');
 const { botColour } = require('../../config.json');
+const { SlashCommandBuilder } = require('@discordjs/builders');
 
 module.exports = {
-	name: 'help',
-	description: 'Replies with a Help embed!',
+	data: new SlashCommandBuilder()
+		.setName('help')
+		.setDescription('Get all bot commands!')
+		.setDefaultPermission(true),
 	async execute(interaction, client) {
 
 		const scommands = client.slashcommands;

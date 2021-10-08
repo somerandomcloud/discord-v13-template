@@ -3,5 +3,7 @@
     "owners": "YOURID",
     "token": "YOURDISCORDTOKEN",
     "botColour": "#C3B1E1",
-    "testguild": "1234569"
+    "guildId": "1234569",
+    "clientId": "",
+    "testing": true
 }

@@ -63,7 +63,7 @@ fs.readdir('./menus/', (err, files) => {
 
 	const jsfile = files.filter((f) => f.split('.').pop() === 'js');
 	if (jsfile.length <= 0) {
-		console.log('No menus.');
+		console.log('No menus found!');
 		return;
 	}
 
